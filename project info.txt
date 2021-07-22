@@ -1,0 +1,14 @@
+﻿Questions
+    1. What is the download rate by categories?
+
+    2. What is the name of the 15 most downloaded applications? 
+
+    3. What is the download rate for paid applications? 
+
+    4. Sort by category.
+
+    5. What is the download rate and user rating by category?
+
+    6. Apply Machine learning models?
+
+
